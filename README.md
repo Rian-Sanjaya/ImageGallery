@@ -1,4 +1,4 @@
 Preview link:
-https://rawgit.com/Rian-Sanjaya/ImageGallery/master/image-gallery.html
+https://htmlpreview.github.io/?https://github.com/Rian-Sanjaya/ImageGallery/blob/master/image-gallery.html
 
 One of a task on The Web Developer Bootcamp online course.
